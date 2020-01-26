@@ -1,0 +1,11 @@
+Historia,Divida,Garantias,Renda,Risco
+Ruim,Alta,Nenhuma,menor_15,Alto
+Boa,Alta,Nenhuma,15_35,Baixo
+Desconhecida,Baixa,Adequada,maior_35,Baixo
+Ruim,Alta,Nenhuma,maior_35,Moderado
+Boa,Baixa,Adequada,menor_15,Moderado
+Boa,Baixa,Adequada,15_35,Alto
+Desconhecida,Baixa,Nenhuma,15_35,Alto
+Desconhecida,Alta,Nenhuma,menor_15,Baixo
+Boa,Baixa,Nenhuma,menor_15,Baixo
+Desconhecida,Alta,Adequada,15_35,Moderado
